@@ -11,8 +11,8 @@ class HomePage extends React.Component {
                 <div className="home">
                     <div className="container">
                         <header className="intro-text">
-                            <div className="intro-lead-in">Welcome To Moshe's Portfolio</div>
-                            <div className="intro-heading">Happy You Are Here!</div>
+                            <div className="intro-heading">HEY, I'M MOSHE DABUSH</div>
+                            <div className="intro-lead-in">A Full-stack / Frontend Web Developer</div>
                             <a className="btn btn-xl js-scroll-trigger" href="#services">Projects</a>
                         </header>
                     </div>

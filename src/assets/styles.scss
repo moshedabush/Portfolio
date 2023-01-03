@@ -1,2 +1,8 @@
-// Pages
-@import "pages/home-page.scss";
+@import "home-page.scss";
+
+// cmps
+@import "cmps/app-header.scss";
+
+// setup
+@import "setup/base.scss";
+@import "setup/helpers.scss";
